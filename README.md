@@ -6,10 +6,10 @@ This repository holds the starter code cloned from [this repository](https://git
 
 ## Usage
 
-Go to this Gist: [Regex Tutorial: URL](https://gist.github.com/mfcodingbc/929d51a742b513bbf3839763289d8a6d) for the project.
+Go to this Gist: [Regex Tutorial URL](https://gist.github.com/mfcodingbc/929d51a742b513bbf3839763289d8a6d) for the project.
 
 ## Credits
 
 [Xandromus](https://github.com/Xandromus) for creating the starter code.
 
-Myself [mfcodingbc](https://github.com/mfcodingbc) as author of the Gist.
+Myself ([mfcodingbc](https://github.com/mfcodingbc)) as author of the Gist.
